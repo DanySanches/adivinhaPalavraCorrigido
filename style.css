@@ -1,0 +1,46 @@
+body {
+	background: lightblue;
+	text-align: center;
+}
+
+.login_div1,
+.login_div2 {
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+sss
+
+#player1Name,
+#player2Name {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#word {
+	width: 60%;
+}
+
+#wordDisplay {
+	letter-spacing: 5px;
+}
+
+#output {
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	align-items: center;
+	justify-content: center;
+}
